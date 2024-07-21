@@ -54,6 +54,12 @@ header {
   box-shadow: 0 0 2rem -1rem rgba(0, 0, 0, 0.5);
 }
 
+.searchBar input {
+  display: flex;
+  gap: 0.5rem;
+  min-width: 30rem;
+}
+
 main {
   padding: 2rem;
 }
